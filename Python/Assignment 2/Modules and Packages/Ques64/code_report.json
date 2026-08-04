@@ -1,0 +1,30 @@
+[
+    {
+        "file": "main_script.py",
+        "lines": 14,
+        "functions": 0,
+        "classes": 0,
+        "last_modified": "2026-08-04 13:51:52"
+    },
+    {
+        "file": "analyzer.py",
+        "lines": 12,
+        "functions": 3,
+        "classes": 0,
+        "last_modified": "2026-08-04 13:59:34"
+    },
+    {
+        "file": "formatter.py",
+        "lines": 7,
+        "functions": 3,
+        "classes": 0,
+        "last_modified": "2026-08-04 14:04:22"
+    },
+    {
+        "file": "__init__.py",
+        "lines": 10,
+        "functions": 0,
+        "classes": 0,
+        "last_modified": "2026-08-04 14:06:20"
+    }
+]
