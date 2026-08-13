@@ -1,0 +1,31 @@
+[
+    {
+        "filename": "sample_app.log",
+        "path": "C:\\Work\\Python\\Assignment 2.1\\Dataset\\File Handling\\Q124\\sample_app.log",
+        "size_bytes": 63,
+        "line_count": 1,
+        "word_count": 10,
+        "top_5_words": [
+            [
+                "error",
+                4
+            ],
+            [
+                "failed",
+                2
+            ],
+            [
+                "system",
+                2
+            ],
+            [
+                "info",
+                1
+            ],
+            [
+                "user",
+                1
+            ]
+        ]
+    }
+]
