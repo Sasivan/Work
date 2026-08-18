@@ -1,4 +1,29 @@
 import numpy as np
+
+def high_value(amounts, mean_val=None):
+    amounts = np.asarray(amounts, dtype=float)
+    if mean_val is None:
+        mean_val = np.mean(amounts)
+    return np.where(amounts > mean_val, "Y", "N")
+ 
+
+def normalize(df):
+  # Convert input to numpy array if it is a list/Series
+  arr = np.array(df, dtype=float)
+
+  min_val = np.min(arr)
+  max_val = np.max(arr)
+  ptp = max_val - min_val
+
+  # Return an array of 0.0s when all values are the same
+  if ptp == 0:
+    return np.zeros_like(arr, dtype=float)
+
+  return (arr - min_val) / ptp
+
+def norm(df):
+    df = df["total_amount"].to_numpy()
+    return ((df-np.min(df))/(np.max(df)-np.min(df)))
 def numpy_stats(df):
     data = df
     df = df["total_amount"].to_numpy()
@@ -15,13 +40,13 @@ def numpy_stats(df):
 
     mask = data["total_amount"]  > np.mean(df)+2*np.std(df)
     print("filtering : ",data.loc[mask,["order_id", "shop_name", "total_amount"]])
-
-    print("norm : ",((df-np.min(df))/(np.max(df)-np.min(df))))
-
-    data["high_va`lue"] = np.where(df>np.mean(df),'Y','N')
+    nm = norm(data)
+    print("norm : ",nm)
+    data["norm"] = nm
+    data["high_value"] = np.where(df>np.mean(df),'Y','N')
 
     print(df)
-
+    return data
 
 # import numpy as np
 
