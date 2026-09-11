@@ -2,5 +2,5 @@
 	path = Git&Github/git-practice
 	url = git@github.com:sasivan177/git-practice.git
 [submodule "Git&Github/DGA/Assignment 1"]
-	path = Git&Github/DGA/Assignment 1
+	path = Git&Github/DGA/my-exciting-project
 	url = git@github.com:sasivan177/DGA-Git-GiHub-Assignment-1.git
