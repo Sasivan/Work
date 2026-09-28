@@ -1,0 +1,6 @@
+Aarav,Present
+Diya,Absent
+Kabir,Present
+Meera,Present
+Rohan,Absenta
+Attendance: 3/2 Present
