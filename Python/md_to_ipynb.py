@@ -151,4 +151,4 @@ def md_to_ipynb(md_file, ipynb_file=None):
 
 
 # Example
-md_to_ipynb("Test\PLP\DGTP\Ques.md")
+md_to_ipynb("C:\sasivan\Work\SQL\Test\LA\SQL_Set_3_Test_20Q.md")
