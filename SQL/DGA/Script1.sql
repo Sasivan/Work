@@ -150,3 +150,19 @@ FROM Teams t
 LEFT JOIN Points p ON t.team_id = p.team
 GROUP BY t.team_id, t.team_name
 ORDER BY num_points DESC, t.team_id ASC;
+
+CREATE OR REPLACE FUNCTION sql_mastery_assignment.calculate_order_tax(
+    p_amount NUMERIC
+)
+RETURNS NUMERIC
+LANGUAGE plpgsql
+AS $$
+BEGIN
+    RETURN CASE
+        WHEN p_amount <= 1000 THEN 0
+        WHEN p_amount <= 5000 THEN p_amount * 0.05
+        ELSE p_amount * 0.10
+    END;
+END;
+$$;
+

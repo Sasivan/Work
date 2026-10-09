@@ -29,6 +29,7 @@
  
 
 
+
 SELECT current_schema();
 
 SELECT tablename
@@ -252,6 +253,7 @@ INSERT INTO order_items (order_item_id, order_id, product_id, quantity, unit_pri
 
 
 
+
  
 -- ============================================================================
 -- 7. payments
@@ -375,6 +377,7 @@ INSERT INTO employee_org_chart (emp_id, emp_name, manager_id) VALUES
 (12, 'Kavita Bhatt',    1),
 (13, 'Amit Trivedi',    12),
 (14, 'Pooja Chawla',    13);
+
 
 
 
