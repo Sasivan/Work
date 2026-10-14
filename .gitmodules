@@ -6,4 +6,4 @@
 	url = git@github.com:sasivan177/my-exciting-project.git
 [submodule "GrokArena"]
 	path = GrokArena
-	url = git@github.com:sasivan177/GrokArena.git
+	url = https://github.com/sasivan177/GrokArena.git
