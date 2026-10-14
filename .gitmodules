@@ -4,6 +4,6 @@
 [submodule "Git&Github/DGA/my-exciting-project"]
 	path = Git&Github/DGA/my-exciting-project
 	url = git@github.com:sasivan177/my-exciting-project.git
-[submodule "grokarena"]
-	path = grokarena
+[submodule "GrokArena"]
+	path = GrokArena
 	url = git@github.com:sasivan177/GrokArena.git
