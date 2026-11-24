@@ -1,0 +1,801 @@
+respondent_id,years_experience,annual_pay,remote_work,team_size,engagement_type_raw,region,job_satisfaction
+1,18,136361,Yes,Medium (51-500),freelance,East,Dissatisfied
+2,13,86486,No,Medium (51-500),,West,Very satisfied
+3,18,151319,Yes,Large (500+),vendor,Central,Neutral
+4,33,192795,No,Medium (51-500),FT,West,Satisfied
+5,19,96908,No,Medium (51-500),contractor,Central,Neutral
+6,23,116836,Yes,Small (1-50),unknown,East,Neutral
+7,26,59149,No,Medium (51-500),freelance,South,Neutral
+8,23,83791,No,Large (500+),vendor,North,Satisfied
+9,27,37393,No,Large (500+),contractor,West,Satisfied
+10,20,163068,Yes,Small (1-50),FT,South,Dissatisfied
+11,31,60825,Yes,Medium (51-500),intern,West,Very satisfied
+12,35,194118,No,Small (1-50),full time,North,Very satisfied
+13,29,57800,Yes,Small (1-50),contractor,Central,Neutral
+14,12,191908,Yes,Medium (51-500),contractor,North,Neutral
+15,9,93425,Yes,Small (1-50),student,Central,Neutral
+16,5,102547,No,Large (500+),full time,West,Neutral
+17,30,125471,Yes,Medium (51-500),contractor,South,Dissatisfied
+18,9,164591,Yes,Large (500+),student,East,Very satisfied
+19,13,179851,Yes,Medium (51-500),,North,Dissatisfied
+20,4,79399,Yes,Small (1-50),,West,Neutral
+21,20,69741,No,Medium (51-500),agency,West,Satisfied
+22,30,117045,Yes,Small (1-50),contractor,Central,Neutral
+23,1,152806,No,Large (500+),freelance,West,Dissatisfied
+24,19,104049,No,Small (1-50),FT,East,Neutral
+25,10,42987,Yes,Medium (51-500),freelance,South,Dissatisfied
+26,15,117175,Yes,Small (1-50),staff;vendor,North,Satisfied
+27,33,75910,No,Small (1-50),full time,East,Dissatisfied
+28,6,205806,No,Medium (51-500),staff;vendor,Central,Satisfied
+29,34,127131,Yes,Small (1-50),student,North,Very dissatisfied
+30,29,59851,Yes,Large (500+),,North,Dissatisfied
+31,22,187371,Yes,Medium (51-500),unknown,South,Dissatisfied
+32,12,49164,Yes,Large (500+),agency,Central,Very dissatisfied
+33,18,61631,Yes,Medium (51-500),intern,North,Neutral
+34,31,155084,No,Small (1-50),student,North,Dissatisfied
+35,8,99185,No,Medium (51-500),,East,Dissatisfied
+36,12,28562,No,Medium (51-500),contractor,Central,Dissatisfied
+37,7,128585,No,Large (500+),,North,Very satisfied
+38,12,131200,Yes,Medium (51-500),student,West,Neutral
+39,15,81765,Yes,Small (1-50),agency,Central,Very satisfied
+40,1,143591,No,Medium (51-500),Permanent,East,Very satisfied
+41,26,200031,Yes,Large (500+),intern,South,Neutral
+42,2,162949,Yes,Large (500+),PERMANENT,North,Very satisfied
+43,21,93646,No,Medium (51-500),staff,Central,Dissatisfied
+44,16,146346,No,Medium (51-500),PERMANENT,Central,Neutral
+45,28,184541,Yes,Medium (51-500),full time,East,Dissatisfied
+46,31,63717,Yes,Medium (51-500),intern,East,Very satisfied
+47,24,197410,No,Large (500+),staff;vendor,South,Neutral
+48,2,198458,Yes,Small (1-50),full time,North,Very satisfied
+49,5,84932,No,Medium (51-500),full time,South,Neutral
+50,33,61372,No,Small (1-50),Permanent,Central,Satisfied
+51,17,69959,Yes,Medium (51-500),staff,Central,Satisfied
+52,16,34297,No,Large (500+),FT,East,Dissatisfied
+53,29,206265,Yes,Large (500+),FT,West,Satisfied
+54,1,122459,No,Small (1-50),agency,North,Dissatisfied
+55,8,209362,No,Small (1-50),unknown,South,Very dissatisfied
+56,35,146008,Yes,Small (1-50),unknown,West,Dissatisfied
+57,35,188285,No,Medium (51-500),student,Central,Neutral
+58,20,68034,Yes,Large (500+),Permanent,Central,Satisfied
+59,1,83921,Yes,Medium (51-500),staff,South,Satisfied
+60,20,68671,Yes,Medium (51-500),Permanent,Central,Very satisfied
+61,unknown,188704,No,Medium (51-500),staff,Central,Satisfied
+62,29,74039,No,Medium (51-500),agency,East,Neutral
+63,2,101417,No,Small (1-50),vendor,South,Very satisfied
+64,9,88698,Yes,Small (1-50),staff,North,Very satisfied
+65,8,77129,Yes,Large (500+),Permanent,North,Very dissatisfied
+66,4,58501,No,Large (500+),intern,Central,Neutral
+67,12,150510,No,Small (1-50),staff;vendor,Central,Neutral
+68,1,86020,No,Medium (51-500),,Central,Satisfied
+69,32,126311,Yes,Large (500+),freelance,West,Neutral
+70,1,113533,Yes,Large (500+),full time,South,Neutral
+71,21,151100,Yes,Small (1-50),FT,West,Very satisfied
+72,13,92146,Yes,Large (500+),staff;vendor,North,Neutral
+73,14,unknown,No,Small (1-50),unknown,North,Dissatisfied
+74,15,142346,No,Small (1-50),full time,West,Very dissatisfied
+75,26,198366,Yes,Small (1-50),student,South,Neutral
+76,15,127157,Yes,Small (1-50),,South,Very dissatisfied
+77,19,194486,No,Medium (51-500),staff;vendor,North,Dissatisfied
+78,25,121691,No,Small (1-50),PERMANENT,West,Dissatisfied
+79,16,144380,No,Large (500+),student,East,Very satisfied
+80,10,155329,Yes,Medium (51-500),unknown,East,Very dissatisfied
+81,19,95929,No,Small (1-50),student,Central,Very dissatisfied
+82,25,163912,Yes,Large (500+),staff;vendor,West,Satisfied
+83,13,154419,Yes,Medium (51-500),freelance,East,Dissatisfied
+84,18,192186,No,Small (1-50),student,North,Very satisfied
+85,19,39670,No,Medium (51-500),student,West,Dissatisfied
+86,34,136107,Yes,Small (1-50),freelance,Central,Satisfied
+87,35,168842,No,Medium (51-500),PERMANENT,South,Satisfied
+88,4,144011,No,Medium (51-500),FT,Central,Dissatisfied
+89,21,66986,No,Large (500+),agency,Central,Very dissatisfied
+90,9,103761,Yes,Medium (51-500),FT,East,Satisfied
+91,30,179320,Yes,Large (500+),,East,Neutral
+92,19,100084,No,Medium (51-500),unknown,Central,Neutral
+93,10,179967,Yes,Large (500+),unknown,East,Very satisfied
+94,33,86286,No,Medium (51-500),Permanent,West,Very dissatisfied
+95,17,179595,Yes,Medium (51-500),unknown,North,Very dissatisfied
+96,18,50374,Yes,Medium (51-500),agency,East,Very satisfied
+97,4,90101,Yes,Medium (51-500),unknown,Central,Very dissatisfied
+98,32,117015,Yes,Medium (51-500),contractor,South,Dissatisfied
+99,28,129426,Yes,Small (1-50),unknown,South,Satisfied
+100,21,107916,No,Medium (51-500),freelance,Central,Very dissatisfied
+101,22,40058,Yes,Medium (51-500),unknown,East,Very satisfied
+102,28,71721,No,Large (500+),Permanent,East,Very dissatisfied
+103,25,44520,Yes,Small (1-50),PERMANENT,West,Very dissatisfied
+104,27,142422,No,Small (1-50),,West,Very satisfied
+105,15,50629,No,Large (500+),intern,West,Dissatisfied
+106,3,119305,Yes,Small (1-50),vendor,North,Neutral
+107,9,34766,No,Small (1-50),student,North,Satisfied
+108,14,101990,Yes,Small (1-50),PERMANENT,Central,Very dissatisfied
+109,9,125931,Yes,Large (500+),staff,South,Very dissatisfied
+110,21,74533,Yes,Medium (51-500),vendor,West,Very satisfied
+111,27,38806,No,Small (1-50),,West,Very satisfied
+112,10,180599,Yes,Medium (51-500),unknown,West,Satisfied
+113,29,158443,Yes,Large (500+),staff,West,Dissatisfied
+114,28,70889,Yes,Medium (51-500),student,East,Satisfied
+115,3,83307,No,Medium (51-500),contractor,West,Very dissatisfied
+116,0,76131,Yes,Medium (51-500),staff,South,Very dissatisfied
+117,28,70577,Yes,Medium (51-500),agency,North,Satisfied
+118,4,31049,Yes,Large (500+),FT,North,Very satisfied
+119,26,60068,No,Medium (51-500),,East,Satisfied
+120,9,137711,No,Large (500+),freelance,North,Very satisfied
+121,32,47642,Yes,Small (1-50),unknown,Central,Dissatisfied
+122,unknown,176489,Yes,Small (1-50),staff,South,Dissatisfied
+123,4,177886,Yes,Small (1-50),vendor,West,Very satisfied
+124,31,174025,Yes,Small (1-50),unknown,East,Dissatisfied
+125,6,84609,No,Medium (51-500),vendor,South,Very dissatisfied
+126,33,86014,No,Large (500+),intern,West,Dissatisfied
+127,35,61295,No,Medium (51-500),PERMANENT,West,Very dissatisfied
+128,6,115899,Yes,Large (500+),freelance,North,Very satisfied
+129,11,98486,No,Large (500+),intern,East,Satisfied
+130,6,208422,Yes,Small (1-50),staff;vendor,South,Neutral
+131,32,177158,Yes,Medium (51-500),agency,South,Very satisfied
+132,28,170119,Yes,Medium (51-500),full time,West,Neutral
+133,21,157737,Yes,Medium (51-500),freelance,East,Very dissatisfied
+134,8,155551,Yes,Medium (51-500),student,Central,Very dissatisfied
+135,10,45705,No,Small (1-50),FT,Central,Very satisfied
+136,20,41517,Yes,Small (1-50),intern,South,Very satisfied
+137,30,131993,Yes,Large (500+),student,Central,Very dissatisfied
+138,33,88398,Yes,Small (1-50),vendor,West,Very dissatisfied
+139,29,55027,Yes,Small (1-50),full time,Central,Neutral
+140,25,116639,No,Large (500+),freelance,Central,Dissatisfied
+141,16,113851,Yes,Small (1-50),vendor,North,Neutral
+142,11,96174,Yes,Large (500+),full time,South,Neutral
+143,0,84794,No,Small (1-50),intern,East,Very satisfied
+144,27,208080,No,Small (1-50),PERMANENT,Central,Dissatisfied
+145,7,48446,No,Large (500+),unknown,East,Very satisfied
+146,28,unknown,Yes,Large (500+),full time,North,Neutral
+147,30,174776,No,Small (1-50),full time,South,Dissatisfied
+148,17,185995,No,Medium (51-500),,East,Neutral
+149,1,62687,Yes,Large (500+),intern,North,Satisfied
+150,20,179485,No,Medium (51-500),intern,West,Neutral
+151,14,117240,Yes,Large (500+),vendor,North,Satisfied
+152,15,120744,No,Small (1-50),agency,South,Very satisfied
+153,9,198624,Yes,Medium (51-500),staff;vendor,South,Satisfied
+154,14,76087,No,Small (1-50),FT,North,Neutral
+155,34,70919,Yes,Medium (51-500),,Central,Very satisfied
+156,35,161881,Yes,Large (500+),freelance,East,Neutral
+157,31,140585,No,Small (1-50),agency,South,Satisfied
+158,33,111243,No,Small (1-50),intern,Central,Satisfied
+159,33,96864,Yes,Medium (51-500),agency,West,Very satisfied
+160,19,177128,Yes,Large (500+),vendor,South,Satisfied
+161,30,100696,No,Medium (51-500),PERMANENT,Central,Satisfied
+162,3,105820,Yes,Large (500+),contractor,East,Neutral
+163,22,175863,No,Medium (51-500),staff,East,Neutral
+164,23,140085,No,Medium (51-500),staff;vendor,Central,Dissatisfied
+165,28,49631,Yes,Medium (51-500),FT,North,Satisfied
+166,30,45725,No,Small (1-50),FT,North,Neutral
+167,18,87344,No,Small (1-50),agency,South,Satisfied
+168,16,169356,Yes,Small (1-50),student,Central,Dissatisfied
+169,14,159254,Yes,Medium (51-500),,West,Neutral
+170,11,59829,Yes,Small (1-50),agency,West,Dissatisfied
+171,21,53084,Yes,Medium (51-500),Permanent,North,Very dissatisfied
+172,26,46728,No,Medium (51-500),vendor,West,Very satisfied
+173,13,143777,No,Large (500+),student,Central,Very satisfied
+174,35,144536,Yes,Small (1-50),vendor,North,Dissatisfied
+175,1,125541,No,Small (1-50),,East,Very dissatisfied
+176,19,72775,Yes,Large (500+),agency,Central,Very satisfied
+177,16,119759,Yes,Medium (51-500),Permanent,East,Very satisfied
+178,15,100788,Yes,Small (1-50),staff;vendor,West,Dissatisfied
+179,12,57756,No,Small (1-50),full time,South,Satisfied
+180,30,118048,Yes,Large (500+),vendor,West,Neutral
+181,3,207214,Yes,Medium (51-500),staff;vendor,South,Neutral
+182,23,122895,Yes,Medium (51-500),PERMANENT,West,Neutral
+183,unknown,107459,Yes,Medium (51-500),staff;vendor,South,Neutral
+184,23,81196,Yes,Small (1-50),,East,Neutral
+185,23,121267,Yes,Large (500+),agency,North,Dissatisfied
+186,21,138007,Yes,Large (500+),,North,Very dissatisfied
+187,26,87616,Yes,Large (500+),Permanent,South,Dissatisfied
+188,6,75923,Yes,Medium (51-500),unknown,Central,Neutral
+189,27,40556,No,Medium (51-500),freelance,East,Very dissatisfied
+190,25,143301,Yes,Large (500+),Permanent,West,Very dissatisfied
+191,31,199386,Yes,Large (500+),,South,Satisfied
+192,35,61833,Yes,Small (1-50),student,Central,Neutral
+193,15,75675,Yes,Medium (51-500),FT,West,Dissatisfied
+194,11,158018,No,Large (500+),PERMANENT,West,Very satisfied
+195,11,132546,Yes,Small (1-50),vendor,North,Neutral
+196,4,59567,No,Small (1-50),full time,East,Satisfied
+197,1,29429,Yes,Small (1-50),full time,West,Very satisfied
+198,23,65135,No,Large (500+),,West,Dissatisfied
+199,26,196147,No,Small (1-50),PERMANENT,South,Very satisfied
+200,13,102799,No,Small (1-50),PERMANENT,South,Very dissatisfied
+201,15,127124,Yes,Medium (51-500),FT,South,Satisfied
+202,15,187664,No,Small (1-50),contractor,South,Satisfied
+203,9,173558,Yes,Small (1-50),Permanent,North,Dissatisfied
+204,24,158121,No,Small (1-50),staff,East,Dissatisfied
+205,33,59559,No,Small (1-50),freelance,North,Satisfied
+206,14,28349,Yes,Small (1-50),intern,North,Very satisfied
+207,10,55669,Yes,Small (1-50),contractor,North,Neutral
+208,19,90297,Yes,Medium (51-500),Permanent,North,Dissatisfied
+209,30,90584,No,Large (500+),freelance,West,Very satisfied
+210,3,33976,No,Medium (51-500),student,West,Dissatisfied
+211,15,135208,No,Small (1-50),intern,Central,Satisfied
+212,25,123909,No,Large (500+),staff;vendor,West,Very satisfied
+213,23,90467,No,Medium (51-500),staff;vendor,Central,Dissatisfied
+214,2,164969,Yes,Small (1-50),,Central,Neutral
+215,15,199154,No,Small (1-50),,South,Very dissatisfied
+216,10,178132,Yes,Large (500+),PERMANENT,South,Very dissatisfied
+217,18,182727,Yes,Large (500+),agency,West,Very satisfied
+218,26,165572,Yes,Small (1-50),,Central,Neutral
+219,24,unknown,No,Large (500+),unknown,North,Neutral
+220,33,201256,Yes,Small (1-50),staff;vendor,South,Neutral
+221,21,39304,Yes,Medium (51-500),student,East,Satisfied
+222,2,156154,No,Medium (51-500),full time,South,Neutral
+223,15,47579,No,Medium (51-500),staff;vendor,Central,Neutral
+224,10,146085,No,Large (500+),contractor,West,Satisfied
+225,20,126177,Yes,Medium (51-500),staff,North,Dissatisfied
+226,20,35414,Yes,Medium (51-500),,Central,Very satisfied
+227,5,198481,No,Small (1-50),intern,West,Very dissatisfied
+228,3,102281,Yes,Large (500+),full time,North,Neutral
+229,12,150986,No,Small (1-50),agency,East,Dissatisfied
+230,10,180786,No,Large (500+),intern,Central,Very satisfied
+231,16,143627,No,Medium (51-500),agency,South,Neutral
+232,8,101767,Yes,Small (1-50),agency,Central,Very dissatisfied
+233,19,60470,No,Medium (51-500),Permanent,Central,Very dissatisfied
+234,17,171547,No,Small (1-50),vendor,East,Neutral
+235,14,61667,No,Large (500+),,South,Neutral
+236,33,49001,Yes,Small (1-50),agency,North,Satisfied
+237,35,44540,Yes,Medium (51-500),intern,Central,Neutral
+238,0,172210,No,Medium (51-500),freelance,South,Very satisfied
+239,7,145325,Yes,Large (500+),agency,West,Very satisfied
+240,20,34885,Yes,Medium (51-500),Permanent,East,Dissatisfied
+241,8,77475,Yes,Medium (51-500),,West,Very satisfied
+242,21,51277,Yes,Large (500+),staff,East,Satisfied
+243,28,75459,Yes,Large (500+),PERMANENT,East,Very dissatisfied
+244,unknown,107806,No,Medium (51-500),staff,North,Very satisfied
+245,27,104853,Yes,Medium (51-500),staff,Central,Satisfied
+246,28,124191,Yes,Medium (51-500),student,Central,Neutral
+247,19,202970,No,Small (1-50),student,East,Very dissatisfied
+248,33,59698,Yes,Large (500+),PERMANENT,Central,Dissatisfied
+249,9,129051,No,Large (500+),Permanent,East,Very satisfied
+250,16,124135,No,Small (1-50),freelance,North,Very dissatisfied
+251,24,62087,No,Medium (51-500),freelance,East,Neutral
+252,30,183609,No,Large (500+),staff,West,Satisfied
+253,13,31821,No,Medium (51-500),staff;vendor,North,Satisfied
+254,4,140198,Yes,Large (500+),Permanent,West,Neutral
+255,16,167257,Yes,Large (500+),staff;vendor,West,Dissatisfied
+256,12,156055,Yes,Small (1-50),,East,Very dissatisfied
+257,32,47783,Yes,Medium (51-500),contractor,West,Satisfied
+258,3,96486,Yes,Medium (51-500),intern,East,Satisfied
+259,4,109831,Yes,Large (500+),staff;vendor,Central,Very dissatisfied
+260,34,107028,No,Large (500+),unknown,Central,Very dissatisfied
+261,33,34423,Yes,Small (1-50),staff;vendor,North,Dissatisfied
+262,0,121754,Yes,Small (1-50),,Central,Very satisfied
+263,15,111222,Yes,Large (500+),staff;vendor,East,Dissatisfied
+264,7,60496,Yes,Small (1-50),,North,Satisfied
+265,8,90637,Yes,Large (500+),freelance,East,Neutral
+266,32,208725,No,Medium (51-500),contractor,South,Very dissatisfied
+267,35,183951,Yes,Medium (51-500),,North,Dissatisfied
+268,27,188056,No,Large (500+),unknown,South,Very dissatisfied
+269,25,116189,Yes,Large (500+),,Central,Dissatisfied
+270,35,135108,Yes,Small (1-50),vendor,South,Very dissatisfied
+271,29,62149,Yes,Medium (51-500),unknown,South,Very dissatisfied
+272,13,90910,Yes,Large (500+),full time,West,Very satisfied
+273,24,77497,Yes,Small (1-50),staff,West,Very dissatisfied
+274,28,150026,Yes,Large (500+),student,West,Satisfied
+275,5,117334,No,Small (1-50),unknown,East,Neutral
+276,8,185366,Yes,Medium (51-500),student,West,Satisfied
+277,15,87585,Yes,Large (500+),,Central,Very satisfied
+278,12,78308,Yes,Small (1-50),staff,Central,Dissatisfied
+279,21,196864,Yes,Small (1-50),,Central,Very satisfied
+280,9,168718,Yes,Small (1-50),FT,North,Neutral
+281,4,52965,Yes,Small (1-50),staff;vendor,North,Very satisfied
+282,3,52222,Yes,Medium (51-500),staff,South,Neutral
+283,18,31256,No,Large (500+),intern,South,Satisfied
+284,32,37397,No,Large (500+),Permanent,South,Very dissatisfied
+285,22,45066,No,Small (1-50),PERMANENT,Central,Very dissatisfied
+286,14,98278,Yes,Medium (51-500),agency,South,Satisfied
+287,16,84301,Yes,Small (1-50),PERMANENT,East,Dissatisfied
+288,17,57216,Yes,Small (1-50),unknown,North,Satisfied
+289,31,135620,No,Medium (51-500),contractor,South,Neutral
+290,6,205930,Yes,Large (500+),Permanent,North,Very satisfied
+291,13,111194,Yes,Small (1-50),,West,Dissatisfied
+292,6,unknown,Yes,Small (1-50),,West,Very dissatisfied
+293,30,191605,Yes,Small (1-50),unknown,East,Very satisfied
+294,3,200758,Yes,Small (1-50),agency,West,Very satisfied
+295,6,115311,Yes,Large (500+),staff;vendor,West,Dissatisfied
+296,17,174785,Yes,Large (500+),staff,North,Very satisfied
+297,7,192880,Yes,Large (500+),staff;vendor,Central,Satisfied
+298,18,44169,No,Medium (51-500),PERMANENT,North,Very satisfied
+299,2,173499,No,Large (500+),FT,South,Satisfied
+300,13,104935,No,Medium (51-500),,East,Neutral
+301,18,110580,No,Small (1-50),freelance,East,Very satisfied
+302,27,71742,Yes,Large (500+),staff,East,Very satisfied
+303,32,198993,No,Large (500+),intern,Central,Neutral
+304,35,152112,Yes,Medium (51-500),staff,West,Very satisfied
+305,unknown,59863,Yes,Medium (51-500),freelance,East,Very satisfied
+306,25,72061,No,Medium (51-500),vendor,West,Satisfied
+307,6,139315,No,Large (500+),full time,North,Dissatisfied
+308,27,200750,No,Medium (51-500),freelance,North,Very dissatisfied
+309,16,105107,Yes,Medium (51-500),freelance,West,Dissatisfied
+310,9,155566,Yes,Small (1-50),intern,East,Neutral
+311,27,165336,No,Large (500+),,Central,Very satisfied
+312,4,74096,Yes,Small (1-50),Permanent,Central,Neutral
+313,26,185021,Yes,Large (500+),full time,South,Dissatisfied
+314,1,133086,Yes,Large (500+),FT,West,Very dissatisfied
+315,14,57407,Yes,Small (1-50),freelance,North,Dissatisfied
+316,9,141316,No,Large (500+),agency,North,Very dissatisfied
+317,2,205985,Yes,Medium (51-500),,South,Neutral
+318,23,155101,No,Medium (51-500),Permanent,East,Dissatisfied
+319,15,205420,Yes,Large (500+),contractor,West,Dissatisfied
+320,3,82999,Yes,Medium (51-500),intern,East,Very satisfied
+321,32,164240,Yes,Medium (51-500),agency,North,Satisfied
+322,5,170839,Yes,Small (1-50),freelance,East,Neutral
+323,29,188920,No,Small (1-50),PERMANENT,North,Neutral
+324,31,115580,No,Large (500+),freelance,Central,Very satisfied
+325,16,32479,Yes,Small (1-50),intern,East,Very dissatisfied
+326,20,200478,No,Medium (51-500),,South,Very dissatisfied
+327,28,56072,Yes,Large (500+),PERMANENT,Central,Neutral
+328,4,189285,Yes,Medium (51-500),staff,East,Very satisfied
+329,33,124312,No,Large (500+),contractor,North,Dissatisfied
+330,2,107298,No,Small (1-50),,South,Neutral
+331,16,164309,Yes,Small (1-50),freelance,South,Very dissatisfied
+332,11,169891,No,Medium (51-500),freelance,West,Dissatisfied
+333,0,67559,No,Small (1-50),unknown,West,Dissatisfied
+334,8,90589,No,Medium (51-500),agency,South,Satisfied
+335,29,100889,Yes,Large (500+),FT,East,Neutral
+336,31,38866,Yes,Small (1-50),contractor,South,Dissatisfied
+337,20,114724,Yes,Small (1-50),staff,Central,Very satisfied
+338,1,30100,Yes,Small (1-50),vendor,North,Neutral
+339,18,121024,No,Medium (51-500),vendor,South,Very dissatisfied
+340,33,178356,No,Large (500+),unknown,North,Very dissatisfied
+341,3,138976,No,Large (500+),staff;vendor,South,Very satisfied
+342,19,118501,Yes,Small (1-50),Permanent,South,Very satisfied
+343,17,56589,No,Large (500+),contractor,East,Dissatisfied
+344,26,198668,No,Medium (51-500),,South,Very dissatisfied
+345,22,101910,Yes,Medium (51-500),staff,West,Satisfied
+346,29,46271,Yes,Small (1-50),FT,North,Very satisfied
+347,26,43102,Yes,Large (500+),freelance,South,Dissatisfied
+348,21,206972,Yes,Medium (51-500),agency,South,Dissatisfied
+349,25,176334,Yes,Large (500+),PERMANENT,North,Neutral
+350,20,152635,No,Medium (51-500),,East,Very satisfied
+351,0,77126,Yes,Medium (51-500),contractor,West,Very satisfied
+352,33,116568,Yes,Medium (51-500),PERMANENT,South,Very dissatisfied
+353,32,126135,No,Large (500+),,South,Satisfied
+354,7,138526,No,Large (500+),vendor,Central,Neutral
+355,12,101128,No,Medium (51-500),student,South,Very dissatisfied
+356,34,106702,No,Medium (51-500),contractor,North,Very dissatisfied
+357,18,84698,No,Large (500+),Permanent,Central,Neutral
+358,24,72995,No,Large (500+),contractor,East,Very satisfied
+359,31,132129,Yes,Large (500+),contractor,West,Very dissatisfied
+360,21,144700,Yes,Large (500+),agency,South,Very satisfied
+361,8,154443,No,Small (1-50),intern,East,Neutral
+362,14,107480,No,Large (500+),freelance,South,Satisfied
+363,23,91286,No,Large (500+),intern,North,Very dissatisfied
+364,9,117688,No,Small (1-50),Permanent,East,Neutral
+365,13,unknown,Yes,Small (1-50),Permanent,West,Very satisfied
+366,unknown,52579,No,Large (500+),agency,South,Dissatisfied
+367,32,87492,Yes,Medium (51-500),staff;vendor,West,Very satisfied
+368,7,54085,No,Small (1-50),staff;vendor,Central,Neutral
+369,9,89842,Yes,Medium (51-500),PERMANENT,East,Very satisfied
+370,1,79603,Yes,Large (500+),FT,Central,Satisfied
+371,15,89954,Yes,Small (1-50),contractor,East,Very satisfied
+372,1,110031,Yes,Medium (51-500),agency,East,Very dissatisfied
+373,8,130743,Yes,Large (500+),Permanent,Central,Dissatisfied
+374,7,40293,Yes,Small (1-50),FT,West,Very satisfied
+375,24,132557,Yes,Large (500+),,North,Dissatisfied
+376,32,94134,No,Large (500+),vendor,North,Very satisfied
+377,30,93287,No,Small (1-50),unknown,South,Satisfied
+378,10,99195,No,Medium (51-500),unknown,Central,Neutral
+379,17,52096,Yes,Medium (51-500),freelance,North,Very dissatisfied
+380,13,193534,No,Large (500+),,East,Very satisfied
+381,16,88048,Yes,Small (1-50),student,East,Neutral
+382,31,123987,No,Medium (51-500),freelance,South,Satisfied
+383,13,56818,No,Medium (51-500),Permanent,North,Very satisfied
+384,10,32098,No,Large (500+),vendor,Central,Satisfied
+385,30,111570,No,Large (500+),vendor,South,Neutral
+386,21,47104,Yes,Medium (51-500),contractor,West,Very dissatisfied
+387,4,137089,Yes,Small (1-50),unknown,North,Neutral
+388,21,162566,No,Small (1-50),agency,Central,Dissatisfied
+389,2,142298,No,Small (1-50),PERMANENT,North,Dissatisfied
+390,19,121037,Yes,Medium (51-500),,North,Satisfied
+391,0,123058,No,Medium (51-500),staff,South,Neutral
+392,10,85230,Yes,Large (500+),full time,South,Neutral
+393,7,47985,No,Large (500+),contractor,South,Very dissatisfied
+394,7,59281,No,Large (500+),unknown,West,Very dissatisfied
+395,32,189998,No,Small (1-50),intern,South,Very satisfied
+396,25,110115,Yes,Small (1-50),agency,East,Satisfied
+397,28,142955,No,Medium (51-500),Permanent,Central,Satisfied
+398,26,172060,Yes,Small (1-50),,East,Very satisfied
+399,7,122795,Yes,Small (1-50),vendor,Central,Very dissatisfied
+400,29,176990,No,Large (500+),vendor,Central,Very dissatisfied
+401,19,156475,No,Small (1-50),vendor,South,Very dissatisfied
+402,28,98459,Yes,Small (1-50),student,East,Neutral
+403,14,119918,No,Large (500+),Permanent,Central,Dissatisfied
+404,6,138815,Yes,Large (500+),FT,East,Dissatisfied
+405,33,198728,No,Medium (51-500),intern,West,Very satisfied
+406,20,191996,Yes,Small (1-50),intern,South,Satisfied
+407,14,90474,No,Small (1-50),agency,East,Dissatisfied
+408,27,83588,Yes,Large (500+),contractor,North,Neutral
+409,18,69789,No,Small (1-50),student,South,Dissatisfied
+410,15,134127,No,Large (500+),intern,North,Very dissatisfied
+411,8,145388,No,Small (1-50),contractor,Central,Satisfied
+412,20,100700,Yes,Large (500+),,Central,Satisfied
+413,19,67192,Yes,Small (1-50),,East,Satisfied
+414,30,150799,No,Medium (51-500),intern,Central,Neutral
+415,4,38946,No,Medium (51-500),intern,South,Satisfied
+416,14,78035,Yes,Medium (51-500),staff;vendor,West,Neutral
+417,29,35080,Yes,Medium (51-500),intern,Central,Very dissatisfied
+418,29,190279,Yes,Large (500+),staff;vendor,East,Satisfied
+419,18,188592,No,Small (1-50),unknown,West,Dissatisfied
+420,6,198276,Yes,Large (500+),FT,West,Neutral
+421,24,177962,No,Small (1-50),freelance,East,Very dissatisfied
+422,4,55277,Yes,Medium (51-500),Permanent,Central,Very dissatisfied
+423,27,175766,Yes,Small (1-50),PERMANENT,Central,Very satisfied
+424,27,162397,Yes,Medium (51-500),Permanent,South,Very satisfied
+425,5,179997,No,Small (1-50),staff;vendor,Central,Dissatisfied
+426,27,82710,Yes,Large (500+),agency,South,Dissatisfied
+427,unknown,207476,Yes,Small (1-50),full time,South,Dissatisfied
+428,5,189886,Yes,Medium (51-500),PERMANENT,East,Very dissatisfied
+429,18,189695,Yes,Large (500+),,Central,Very dissatisfied
+430,33,31225,No,Medium (51-500),,South,Very satisfied
+431,6,91319,Yes,Large (500+),staff;vendor,West,Satisfied
+432,5,126210,No,Large (500+),FT,West,Very dissatisfied
+433,4,113807,Yes,Large (500+),Permanent,Central,Neutral
+434,27,90926,No,Large (500+),staff;vendor,North,Very satisfied
+435,6,103862,No,Small (1-50),Permanent,North,Dissatisfied
+436,3,206041,Yes,Small (1-50),unknown,Central,Very satisfied
+437,31,191947,No,Large (500+),PERMANENT,West,Satisfied
+438,15,unknown,No,Small (1-50),agency,South,Neutral
+439,21,64022,No,Large (500+),contractor,West,Very dissatisfied
+440,3,207708,Yes,Large (500+),,South,Neutral
+441,7,37176,Yes,Large (500+),contractor,South,Very dissatisfied
+442,25,195684,No,Medium (51-500),student,East,Very dissatisfied
+443,30,122400,Yes,Medium (51-500),agency,South,Dissatisfied
+444,34,203774,No,Medium (51-500),agency,North,Very satisfied
+445,16,67051,No,Small (1-50),,Central,Very satisfied
+446,6,165178,Yes,Medium (51-500),,South,Dissatisfied
+447,25,94555,Yes,Medium (51-500),agency,West,Very dissatisfied
+448,5,80175,No,Medium (51-500),contractor,East,Neutral
+449,18,65002,Yes,Large (500+),intern,West,Neutral
+450,4,117852,Yes,Small (1-50),agency,East,Dissatisfied
+451,29,130065,Yes,Small (1-50),vendor,Central,Dissatisfied
+452,24,134445,No,Large (500+),FT,South,Dissatisfied
+453,22,55187,Yes,Medium (51-500),vendor,North,Satisfied
+454,9,148310,No,Medium (51-500),staff;vendor,North,Neutral
+455,32,148251,Yes,Large (500+),vendor,South,Very dissatisfied
+456,18,117906,Yes,Medium (51-500),vendor,Central,Dissatisfied
+457,20,186644,Yes,Large (500+),FT,East,Very dissatisfied
+458,22,204920,Yes,Large (500+),,North,Satisfied
+459,32,50471,No,Large (500+),full time,East,Very dissatisfied
+460,17,196257,No,Medium (51-500),,West,Very satisfied
+461,27,33633,Yes,Medium (51-500),freelance,North,Very satisfied
+462,33,164019,Yes,Large (500+),staff,West,Very dissatisfied
+463,13,86954,Yes,Medium (51-500),student,North,Satisfied
+464,12,34785,No,Large (500+),freelance,West,Dissatisfied
+465,14,67654,No,Large (500+),PERMANENT,North,Neutral
+466,30,187090,Yes,Medium (51-500),staff;vendor,West,Dissatisfied
+467,2,192812,Yes,Medium (51-500),student,East,Satisfied
+468,35,139899,No,Large (500+),staff,North,Satisfied
+469,0,114407,No,Small (1-50),staff,South,Satisfied
+470,24,147674,Yes,Small (1-50),,East,Very dissatisfied
+471,35,100296,Yes,Small (1-50),intern,West,Dissatisfied
+472,31,158109,No,Medium (51-500),agency,West,Very dissatisfied
+473,26,124857,Yes,Medium (51-500),contractor,West,Dissatisfied
+474,6,202374,Yes,Small (1-50),,West,Neutral
+475,35,156379,Yes,Small (1-50),agency,Central,Dissatisfied
+476,17,117965,Yes,Medium (51-500),unknown,South,Neutral
+477,4,148624,No,Small (1-50),staff,East,Satisfied
+478,5,124633,No,Medium (51-500),unknown,East,Very satisfied
+479,29,130635,No,Small (1-50),agency,West,Dissatisfied
+480,18,174029,Yes,Large (500+),freelance,North,Neutral
+481,29,196166,No,Small (1-50),,North,Very dissatisfied
+482,4,69264,Yes,Medium (51-500),vendor,South,Neutral
+483,33,30870,Yes,Small (1-50),vendor,North,Satisfied
+484,24,189432,No,Small (1-50),vendor,West,Satisfied
+485,4,48221,No,Small (1-50),Permanent,North,Very dissatisfied
+486,19,150979,No,Small (1-50),full time,West,Dissatisfied
+487,25,110378,No,Large (500+),vendor,East,Very satisfied
+488,unknown,162731,Yes,Medium (51-500),Permanent,Central,Neutral
+489,10,38726,Yes,Small (1-50),student,North,Very dissatisfied
+490,4,128366,Yes,Large (500+),student,Central,Neutral
+491,14,190582,No,Large (500+),,West,Very satisfied
+492,9,106656,Yes,Large (500+),FT,North,Satisfied
+493,12,70041,Yes,Medium (51-500),PERMANENT,North,Satisfied
+494,2,75942,Yes,Large (500+),full time,East,Very satisfied
+495,8,89412,No,Large (500+),PERMANENT,North,Very dissatisfied
+496,6,132715,Yes,Medium (51-500),Permanent,North,Dissatisfied
+497,19,194318,Yes,Large (500+),staff,Central,Neutral
+498,4,147986,No,Large (500+),,North,Very dissatisfied
+499,26,142587,Yes,Large (500+),PERMANENT,North,Dissatisfied
+500,10,116915,No,Large (500+),staff;vendor,North,Satisfied
+501,14,195672,No,Small (1-50),student,West,Dissatisfied
+502,10,127873,No,Medium (51-500),contractor,East,Dissatisfied
+503,7,48255,Yes,Medium (51-500),Permanent,West,Neutral
+504,7,108265,No,Small (1-50),FT,North,Satisfied
+505,12,111754,Yes,Large (500+),agency,Central,Neutral
+506,28,29732,Yes,Small (1-50),freelance,South,Very dissatisfied
+507,0,69549,No,Large (500+),student,Central,Satisfied
+508,14,138762,No,Small (1-50),student,North,Very satisfied
+509,0,101075,No,Medium (51-500),staff;vendor,North,Very satisfied
+510,35,76632,No,Small (1-50),vendor,East,Very dissatisfied
+511,6,unknown,Yes,Small (1-50),full time,Central,Dissatisfied
+512,25,199130,No,Large (500+),freelance,North,Satisfied
+513,27,73192,Yes,Large (500+),staff;vendor,Central,Very dissatisfied
+514,4,136091,No,Small (1-50),contractor,Central,Dissatisfied
+515,31,44015,Yes,Large (500+),,Central,Dissatisfied
+516,29,204811,No,Large (500+),PERMANENT,East,Very dissatisfied
+517,4,97078,Yes,Large (500+),,East,Neutral
+518,9,168639,No,Large (500+),student,North,Dissatisfied
+519,28,131780,No,Small (1-50),staff,South,Neutral
+520,30,163767,Yes,Small (1-50),full time,Central,Neutral
+521,9,57692,Yes,Medium (51-500),staff;vendor,North,Dissatisfied
+522,35,195634,No,Medium (51-500),student,Central,Very dissatisfied
+523,14,200435,No,Large (500+),agency,South,Dissatisfied
+524,17,78683,Yes,Large (500+),intern,West,Very satisfied
+525,35,34327,No,Small (1-50),contractor,East,Satisfied
+526,16,40695,No,Medium (51-500),staff;vendor,East,Neutral
+527,33,138536,No,Medium (51-500),freelance,West,Satisfied
+528,3,203602,Yes,Large (500+),FT,South,Neutral
+529,10,48517,No,Small (1-50),freelance,Central,Neutral
+530,23,106497,No,Small (1-50),vendor,South,Dissatisfied
+531,21,29271,No,Medium (51-500),intern,West,Dissatisfied
+532,34,86641,No,Large (500+),agency,East,Neutral
+533,35,115493,Yes,Large (500+),staff;vendor,West,Dissatisfied
+534,24,165580,No,Large (500+),intern,South,Very satisfied
+535,11,131106,Yes,Medium (51-500),staff;vendor,West,Satisfied
+536,6,70654,No,Large (500+),intern,South,Dissatisfied
+537,3,107880,Yes,Medium (51-500),staff,North,Very satisfied
+538,3,131978,No,Small (1-50),agency,East,Very dissatisfied
+539,11,30785,No,Small (1-50),staff,South,Neutral
+540,12,136269,Yes,Medium (51-500),,North,Very dissatisfied
+541,24,82896,Yes,Small (1-50),staff;vendor,Central,Dissatisfied
+542,32,34360,Yes,Small (1-50),staff;vendor,South,Satisfied
+543,27,110082,Yes,Small (1-50),freelance,West,Very dissatisfied
+544,13,74386,No,Medium (51-500),intern,Central,Very dissatisfied
+545,0,135404,Yes,Small (1-50),vendor,South,Neutral
+546,18,145297,Yes,Small (1-50),,West,Dissatisfied
+547,31,40240,No,Small (1-50),intern,Central,Satisfied
+548,13,105063,Yes,Medium (51-500),full time,West,Satisfied
+549,unknown,140489,Yes,Medium (51-500),vendor,West,Neutral
+550,14,84749,Yes,Medium (51-500),freelance,East,Neutral
+551,12,112296,Yes,Small (1-50),staff,Central,Very dissatisfied
+552,14,70503,No,Small (1-50),staff,North,Neutral
+553,20,59007,Yes,Medium (51-500),intern,East,Satisfied
+554,0,62791,No,Medium (51-500),intern,Central,Very satisfied
+555,5,112183,No,Medium (51-500),Permanent,East,Dissatisfied
+556,18,32142,No,Medium (51-500),agency,South,Very satisfied
+557,32,161835,Yes,Small (1-50),full time,Central,Satisfied
+558,29,48990,No,Large (500+),full time,South,Satisfied
+559,30,198934,No,Large (500+),full time,East,Very dissatisfied
+560,23,199236,Yes,Small (1-50),agency,North,Satisfied
+561,9,157285,Yes,Large (500+),unknown,East,Dissatisfied
+562,31,104953,Yes,Large (500+),vendor,West,Very dissatisfied
+563,13,160542,No,Medium (51-500),unknown,East,Neutral
+564,32,198343,No,Small (1-50),student,North,Very dissatisfied
+565,3,188762,No,Large (500+),agency,South,Neutral
+566,33,139847,No,Medium (51-500),PERMANENT,West,Very dissatisfied
+567,14,37103,No,Small (1-50),PERMANENT,Central,Very dissatisfied
+568,31,93078,No,Medium (51-500),staff;vendor,South,Very satisfied
+569,32,33981,No,Small (1-50),unknown,West,Dissatisfied
+570,9,125059,Yes,Medium (51-500),Permanent,Central,Satisfied
+571,20,109185,Yes,Large (500+),intern,Central,Dissatisfied
+572,21,148333,Yes,Large (500+),contractor,West,Very satisfied
+573,5,80551,Yes,Medium (51-500),unknown,South,Neutral
+574,16,114687,Yes,Medium (51-500),Permanent,North,Very satisfied
+575,24,71455,Yes,Small (1-50),PERMANENT,Central,Satisfied
+576,8,155719,No,Small (1-50),PERMANENT,East,Satisfied
+577,31,185060,No,Medium (51-500),,East,Very satisfied
+578,15,55780,Yes,Small (1-50),,South,Very satisfied
+579,1,194972,No,Medium (51-500),FT,East,Very dissatisfied
+580,24,118119,No,Medium (51-500),FT,Central,Very dissatisfied
+581,14,155264,No,Medium (51-500),Permanent,North,Very satisfied
+582,0,152745,No,Large (500+),unknown,South,Neutral
+583,27,125892,No,Small (1-50),unknown,Central,Neutral
+584,13,unknown,Yes,Large (500+),student,North,Very dissatisfied
+585,33,137739,No,Medium (51-500),,East,Satisfied
+586,4,50882,Yes,Small (1-50),intern,South,Satisfied
+587,5,138792,Yes,Medium (51-500),freelance,East,Dissatisfied
+588,31,195043,Yes,Medium (51-500),staff;vendor,North,Very dissatisfied
+589,15,31614,No,Small (1-50),contractor,West,Very satisfied
+590,7,159481,Yes,Small (1-50),unknown,South,Satisfied
+591,1,118390,Yes,Small (1-50),FT,East,Very satisfied
+592,22,162932,No,Small (1-50),freelance,East,Neutral
+593,24,82992,Yes,Large (500+),Permanent,West,Neutral
+594,6,107126,No,Medium (51-500),unknown,Central,Satisfied
+595,26,143710,Yes,Medium (51-500),FT,Central,Dissatisfied
+596,23,123330,Yes,Large (500+),Permanent,Central,Neutral
+597,34,123633,No,Large (500+),,East,Dissatisfied
+598,26,58008,Yes,Medium (51-500),Permanent,East,Neutral
+599,10,159522,No,Medium (51-500),staff,West,Neutral
+600,30,82008,Yes,Medium (51-500),contractor,Central,Very satisfied
+601,6,99419,No,Small (1-50),full time,West,Very satisfied
+602,24,167718,No,Large (500+),,North,Very satisfied
+603,21,183944,No,Large (500+),intern,West,Satisfied
+604,23,72539,Yes,Medium (51-500),Permanent,South,Very satisfied
+605,3,176837,Yes,Small (1-50),freelance,Central,Very dissatisfied
+606,20,207111,No,Small (1-50),student,South,Very satisfied
+607,17,162652,Yes,Medium (51-500),PERMANENT,West,Neutral
+608,9,152570,No,Large (500+),,East,Very dissatisfied
+609,33,135319,No,Medium (51-500),staff,Central,Neutral
+610,unknown,80690,No,Medium (51-500),full time,South,Very dissatisfied
+611,1,203725,No,Medium (51-500),freelance,South,Dissatisfied
+612,2,205892,No,Medium (51-500),agency,North,Very dissatisfied
+613,19,115002,No,Medium (51-500),agency,East,Very satisfied
+614,24,105117,Yes,Medium (51-500),,Central,Very dissatisfied
+615,32,163612,Yes,Medium (51-500),staff;vendor,South,Very satisfied
+616,14,165864,Yes,Small (1-50),,East,Very satisfied
+617,31,145343,No,Large (500+),unknown,Central,Satisfied
+618,21,51353,Yes,Large (500+),Permanent,South,Very satisfied
+619,20,73010,No,Small (1-50),vendor,Central,Dissatisfied
+620,14,50377,Yes,Medium (51-500),vendor,West,Neutral
+621,1,151294,Yes,Small (1-50),staff;vendor,South,Dissatisfied
+622,0,59258,Yes,Large (500+),Permanent,North,Neutral
+623,7,41756,Yes,Small (1-50),unknown,West,Very satisfied
+624,2,194879,No,Medium (51-500),staff,West,Dissatisfied
+625,25,87666,Yes,Small (1-50),intern,South,Satisfied
+626,4,97370,Yes,Small (1-50),agency,Central,Very dissatisfied
+627,9,158230,Yes,Large (500+),contractor,North,Neutral
+628,33,178247,No,Medium (51-500),intern,East,Neutral
+629,32,147335,Yes,Large (500+),student,Central,Very satisfied
+630,4,132336,No,Small (1-50),intern,East,Very dissatisfied
+631,3,111799,No,Medium (51-500),unknown,Central,Very dissatisfied
+632,17,95947,No,Medium (51-500),PERMANENT,Central,Dissatisfied
+633,4,167144,No,Medium (51-500),staff,East,Neutral
+634,13,64708,No,Small (1-50),freelance,West,Very satisfied
+635,10,195560,Yes,Medium (51-500),unknown,South,Very satisfied
+636,27,58568,No,Small (1-50),Permanent,South,Dissatisfied
+637,33,155185,No,Small (1-50),vendor,South,Very dissatisfied
+638,9,196748,No,Medium (51-500),FT,West,Neutral
+639,27,85908,Yes,Small (1-50),staff,East,Dissatisfied
+640,25,203000,No,Small (1-50),freelance,East,Dissatisfied
+641,35,120824,No,Large (500+),Permanent,North,Satisfied
+642,23,118904,No,Large (500+),staff,Central,Neutral
+643,1,83299,No,Small (1-50),,Central,Neutral
+644,8,155625,Yes,Large (500+),staff;vendor,Central,Very dissatisfied
+645,6,201329,Yes,Large (500+),vendor,South,Very dissatisfied
+646,11,106859,No,Small (1-50),staff;vendor,North,Very dissatisfied
+647,30,174171,No,Medium (51-500),freelance,West,Very dissatisfied
+648,3,124469,Yes,Medium (51-500),PERMANENT,South,Very dissatisfied
+649,14,160085,Yes,Medium (51-500),Permanent,East,Neutral
+650,26,199640,Yes,Small (1-50),staff;vendor,West,Very satisfied
+651,17,95354,Yes,Large (500+),unknown,West,Satisfied
+652,16,81268,Yes,Large (500+),,South,Satisfied
+653,29,111171,No,Medium (51-500),unknown,Central,Very satisfied
+654,17,35533,No,Medium (51-500),intern,West,Dissatisfied
+655,25,95968,Yes,Small (1-50),vendor,South,Satisfied
+656,26,52337,No,Medium (51-500),intern,West,Neutral
+657,25,unknown,Yes,Medium (51-500),intern,Central,Very satisfied
+658,5,41302,Yes,Medium (51-500),freelance,East,Neutral
+659,18,53707,No,Small (1-50),full time,Central,Satisfied
+660,18,205833,No,Medium (51-500),,North,Neutral
+661,24,81449,Yes,Medium (51-500),staff,South,Dissatisfied
+662,27,110299,Yes,Large (500+),student,South,Dissatisfied
+663,4,156241,Yes,Medium (51-500),freelance,South,Very dissatisfied
+664,31,37875,Yes,Small (1-50),,West,Satisfied
+665,30,178237,Yes,Small (1-50),freelance,North,Very dissatisfied
+666,9,121265,Yes,Small (1-50),staff;vendor,South,Neutral
+667,31,199221,No,Medium (51-500),unknown,Central,Satisfied
+668,10,110065,No,Large (500+),unknown,North,Very dissatisfied
+669,32,101527,Yes,Large (500+),student,South,Satisfied
+670,33,166219,No,Large (500+),staff,East,Dissatisfied
+671,unknown,102470,Yes,Small (1-50),staff,Central,Very satisfied
+672,3,122046,No,Large (500+),Permanent,West,Very dissatisfied
+673,5,199278,No,Medium (51-500),,East,Dissatisfied
+674,29,34245,Yes,Small (1-50),contractor,South,Satisfied
+675,13,107708,Yes,Small (1-50),unknown,East,Very dissatisfied
+676,10,153690,Yes,Small (1-50),student,Central,Satisfied
+677,1,114066,No,Medium (51-500),staff,South,Very dissatisfied
+678,28,166653,Yes,Small (1-50),staff;vendor,Central,Neutral
+679,33,127165,No,Small (1-50),freelance,South,Dissatisfied
+680,26,69783,Yes,Large (500+),intern,East,Very satisfied
+681,8,82141,Yes,Medium (51-500),PERMANENT,South,Dissatisfied
+682,34,134729,Yes,Small (1-50),,East,Neutral
+683,17,107590,Yes,Medium (51-500),full time,North,Very satisfied
+684,9,166833,Yes,Medium (51-500),staff;vendor,East,Very dissatisfied
+685,29,132588,Yes,Medium (51-500),,West,Satisfied
+686,16,171368,No,Medium (51-500),staff,Central,Very dissatisfied
+687,21,45049,Yes,Medium (51-500),vendor,Central,Neutral
+688,2,143542,No,Large (500+),agency,Central,Neutral
+689,25,89262,Yes,Small (1-50),vendor,West,Dissatisfied
+690,32,147773,Yes,Large (500+),full time,West,Very dissatisfied
+691,21,137420,No,Large (500+),,East,Very satisfied
+692,19,126950,Yes,Large (500+),vendor,West,Satisfied
+693,29,186847,No,Large (500+),staff,Central,Very dissatisfied
+694,15,179241,Yes,Medium (51-500),PERMANENT,South,Satisfied
+695,26,149221,Yes,Small (1-50),full time,Central,Dissatisfied
+696,5,70841,Yes,Medium (51-500),PERMANENT,Central,Dissatisfied
+697,25,186679,Yes,Small (1-50),Permanent,South,Very satisfied
+698,5,172989,Yes,Large (500+),,East,Dissatisfied
+699,23,112216,Yes,Medium (51-500),student,West,Very dissatisfied
+700,3,169289,No,Large (500+),Permanent,West,Satisfied
+701,1,202715,No,Small (1-50),Permanent,South,Neutral
+702,12,125720,Yes,Small (1-50),,North,Neutral
+703,8,132955,Yes,Large (500+),PERMANENT,South,Satisfied
+704,27,82979,Yes,Large (500+),vendor,Central,Neutral
+705,16,87262,Yes,Medium (51-500),unknown,Central,Very dissatisfied
+706,31,82974,No,Medium (51-500),FT,East,Neutral
+707,15,135057,Yes,Large (500+),,South,Dissatisfied
+708,35,135789,No,Small (1-50),unknown,Central,Neutral
+709,5,141828,Yes,Small (1-50),agency,East,Very dissatisfied
+710,7,202143,Yes,Large (500+),student,West,Satisfied
+711,0,85315,Yes,Medium (51-500),,North,Very dissatisfied
+712,21,96553,No,Medium (51-500),intern,Central,Dissatisfied
+713,16,72048,Yes,Small (1-50),Permanent,East,Neutral
+714,31,83820,No,Large (500+),PERMANENT,North,Very dissatisfied
+715,18,71704,Yes,Medium (51-500),PERMANENT,South,Very satisfied
+716,18,150709,No,Small (1-50),FT,Central,Very satisfied
+717,29,122836,Yes,Large (500+),agency,West,Neutral
+718,23,54629,Yes,Small (1-50),freelance,West,Very satisfied
+719,26,80938,No,Small (1-50),agency,Central,Dissatisfied
+720,17,31952,No,Small (1-50),,North,Very dissatisfied
+721,21,149571,Yes,Large (500+),FT,East,Neutral
+722,21,42715,No,Medium (51-500),student,East,Dissatisfied
+723,24,70675,Yes,Medium (51-500),agency,North,Dissatisfied
+724,25,67833,Yes,Small (1-50),staff;vendor,North,Neutral
+725,6,130195,No,Large (500+),contractor,South,Dissatisfied
+726,26,102610,No,Small (1-50),staff;vendor,Central,Very satisfied
+727,14,35857,No,Medium (51-500),student,North,Very satisfied
+728,16,90696,Yes,Medium (51-500),freelance,South,Neutral
+729,14,171295,Yes,Large (500+),vendor,North,Satisfied
+730,11,unknown,Yes,Large (500+),Permanent,South,Very satisfied
+731,23,193632,Yes,Large (500+),intern,North,Very dissatisfied
+732,unknown,190221,Yes,Small (1-50),freelance,East,Very satisfied
+733,9,140685,No,Large (500+),freelance,South,Very dissatisfied
+734,14,50458,No,Small (1-50),FT,South,Satisfied
+735,33,64938,No,Medium (51-500),contractor,North,Dissatisfied
+736,18,42885,Yes,Medium (51-500),vendor,East,Very satisfied
+737,3,109480,No,Large (500+),full time,East,Very dissatisfied
+738,17,84887,Yes,Large (500+),intern,West,Neutral
+739,25,55842,No,Large (500+),full time,East,Very satisfied
+740,3,209868,No,Large (500+),intern,South,Neutral
+741,23,38375,No,Medium (51-500),FT,South,Neutral
+742,26,93430,Yes,Large (500+),student,North,Very satisfied
+743,27,148097,Yes,Large (500+),staff;vendor,East,Neutral
+744,5,76792,No,Large (500+),intern,East,Satisfied
+745,15,36725,Yes,Small (1-50),PERMANENT,West,Satisfied
+746,29,124643,Yes,Small (1-50),unknown,South,Satisfied
+747,31,55132,Yes,Large (500+),FT,West,Satisfied
+748,33,109871,Yes,Medium (51-500),,South,Very satisfied
+749,4,127629,No,Small (1-50),staff;vendor,South,Neutral
+750,20,170699,No,Large (500+),student,East,Dissatisfied
+751,3,160491,No,Medium (51-500),unknown,North,Dissatisfied
+752,34,32440,Yes,Small (1-50),vendor,North,Satisfied
+753,12,167240,No,Medium (51-500),Permanent,West,Neutral
+754,24,98759,No,Large (500+),staff;vendor,West,Very dissatisfied
+755,22,196710,No,Small (1-50),student,East,Neutral
+756,1,52955,Yes,Medium (51-500),staff;vendor,West,Satisfied
+757,31,180640,Yes,Medium (51-500),vendor,West,Satisfied
+758,29,129262,No,Large (500+),agency,Central,Very satisfied
+759,13,51130,Yes,Small (1-50),intern,Central,Neutral
+760,31,187593,Yes,Small (1-50),staff,West,Very satisfied
+761,32,99779,No,Large (500+),FT,South,Very dissatisfied
+762,13,33748,Yes,Medium (51-500),intern,North,Neutral
+763,0,98831,Yes,Large (500+),freelance,West,Very satisfied
+764,13,165856,No,Medium (51-500),FT,South,Very dissatisfied
+765,15,140251,No,Medium (51-500),PERMANENT,West,Satisfied
+766,12,124870,Yes,Small (1-50),staff;vendor,West,Very dissatisfied
+767,7,174722,No,Large (500+),Permanent,West,Satisfied
+768,24,205164,Yes,Medium (51-500),staff,Central,Very dissatisfied
+769,5,38815,No,Medium (51-500),agency,East,Satisfied
+770,1,51956,Yes,Medium (51-500),staff;vendor,West,Neutral
+771,2,127288,No,Small (1-50),PERMANENT,Central,Dissatisfied
+772,14,93989,No,Medium (51-500),student,North,Very satisfied
+773,17,92591,Yes,Small (1-50),,South,Very dissatisfied
+774,5,182989,Yes,Small (1-50),PERMANENT,North,Dissatisfied
+775,31,149478,No,Large (500+),,Central,Neutral
+776,27,124587,No,Large (500+),intern,West,Very satisfied
+777,35,125542,No,Medium (51-500),freelance,Central,Very satisfied
+778,2,141774,Yes,Small (1-50),,Central,Very satisfied
+779,14,52685,Yes,Small (1-50),freelance,East,Very satisfied
+780,11,107684,No,Medium (51-500),agency,East,Satisfied
+781,6,204626,Yes,Medium (51-500),student,East,Very dissatisfied
+782,12,45697,No,Medium (51-500),freelance,Central,Satisfied
+783,30,108704,Yes,Small (1-50),staff,Central,Neutral
+784,30,187991,No,Small (1-50),freelance,South,Very satisfied
+785,9,201659,No,Medium (51-500),Permanent,Central,Neutral
+786,23,78994,No,Medium (51-500),intern,East,Neutral
+787,7,104532,No,Small (1-50),contractor,South,Dissatisfied
+788,31,82520,No,Small (1-50),,South,Very dissatisfied
+789,30,32744,Yes,Small (1-50),agency,North,Neutral
+790,21,188855,Yes,Small (1-50),Permanent,South,Neutral
+791,33,83852,No,Small (1-50),intern,East,Satisfied
+792,1,120281,No,Medium (51-500),unknown,Central,Very satisfied
+793,unknown,97800,Yes,Medium (51-500),,East,Dissatisfied
+794,33,81754,No,Small (1-50),agency,North,Satisfied
+795,21,186918,Yes,Large (500+),full time,West,Neutral
+796,24,94322,Yes,Small (1-50),Permanent,South,Very satisfied
+797,22,170339,No,Large (500+),vendor,North,Neutral
+798,15,178339,No,Small (1-50),full time,East,Neutral
+799,0,191251,Yes,Large (500+),vendor,South,Neutral
+800,14,139165,No,Small (1-50),Permanent,North,Neutral

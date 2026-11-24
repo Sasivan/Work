@@ -1,0 +1,13 @@
+branch,quarter,revenue,source_name,asset_tag,asset_type,assigned_team,replacement_year,service,target_hours,priority
+North,Q1,48250.75,Branch Summary,,,,,,,
+South,Q1,39810.2,Branch Summary,,,,,,,
+East,Q2,52630.0,Branch Summary,,,,,,,
+West,Q2,41290.5,Branch Summary,,,,,,,
+,,,Asset Register,LT-1001,Laptop,Data,2027.0,,,
+,,,Asset Register,LT-1002,Laptop,Ops,2028.0,,,
+,,,Asset Register,PR-2010,Printer,Finance,2026.0,,,
+,,,Asset Register,SC-3015,Scanner,Support,2029.0,,,
+,,,Service Levels,,,,,Onboarding,24.0,Normal
+,,,Service Levels,,,,,Migration,72.0,High
+,,,Service Levels,,,,,Integration,48.0,High
+,,,Service Levels,,,,,Support,8.0,Critical

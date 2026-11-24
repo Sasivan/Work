@@ -1,0 +1,422 @@
+[
+  {
+    "job_id": 1,
+    "client_id": "C0017",
+    "job_date": "2026-04-01",
+    "amount": 1768.58
+  },
+  {
+    "job_id": 2,
+    "client_id": "C0018",
+    "job_date": "2026-03-09",
+    "amount": 1035.23
+  },
+  {
+    "job_id": 3,
+    "client_id": "C0007",
+    "job_date": "2026-05-08",
+    "amount": 3194.85
+  },
+  {
+    "job_id": 4,
+    "client_id": "C0019",
+    "job_date": "2026-08-21",
+    "amount": 445.24
+  },
+  {
+    "job_id": 5,
+    "client_id": "C0028",
+    "job_date": "2026-02-26",
+    "amount": 1020.52
+  },
+  {
+    "job_id": 6,
+    "client_id": "C0009",
+    "job_date": "2026-02-09",
+    "amount": 1719.29
+  },
+  {
+    "job_id": 7,
+    "client_id": "C0019",
+    "job_date": "2026-03-08",
+    "amount": 169.2
+  },
+  {
+    "job_id": 8,
+    "client_id": "C0029",
+    "job_date": "2026-07-10",
+    "amount": 2940.73
+  },
+  {
+    "job_id": 9,
+    "client_id": "C0024",
+    "job_date": "2026-05-28",
+    "amount": 3340.12
+  },
+  {
+    "job_id": 10,
+    "client_id": "C0026",
+    "job_date": "2026-02-19",
+    "amount": 265.84
+  },
+  {
+    "job_id": 11,
+    "client_id": "C0019",
+    "job_date": "2026-02-08",
+    "amount": 2689.89
+  },
+  {
+    "job_id": 12,
+    "client_id": "C0016",
+    "job_date": "2026-05-24",
+    "amount": 2227.79
+  },
+  {
+    "job_id": 13,
+    "client_id": "C0013",
+    "job_date": "2026-10-18",
+    "amount": 2271.71
+  },
+  {
+    "job_id": 14,
+    "client_id": "C0010",
+    "job_date": "2026-08-31",
+    "amount": 2059.94
+  },
+  {
+    "job_id": 15,
+    "client_id": "C0003",
+    "job_date": "2026-06-01",
+    "amount": 1962.86
+  },
+  {
+    "job_id": 16,
+    "client_id": "C0029",
+    "job_date": "2026-01-27",
+    "amount": 1551.66
+  },
+  {
+    "job_id": 17,
+    "client_id": "C0021",
+    "job_date": "2026-09-11",
+    "amount": 2525.09
+  },
+  {
+    "job_id": 18,
+    "client_id": "C0017",
+    "job_date": "2026-10-17",
+    "amount": 182.0
+  },
+  {
+    "job_id": 19,
+    "client_id": "C0027",
+    "job_date": "2026-09-04",
+    "amount": 1281.18
+  },
+  {
+    "job_id": 20,
+    "client_id": "C0018",
+    "job_date": "2026-04-13",
+    "amount": 2372.22
+  },
+  {
+    "job_id": 21,
+    "client_id": "C0019",
+    "job_date": "2026-02-28",
+    "amount": 1045.48
+  },
+  {
+    "job_id": 22,
+    "client_id": "C0024",
+    "job_date": "2026-05-22",
+    "amount": 2888.31
+  },
+  {
+    "job_id": 23,
+    "client_id": "C0004",
+    "job_date": "2026-06-21",
+    "amount": 733.94
+  },
+  {
+    "job_id": 24,
+    "client_id": "C0027",
+    "job_date": "2026-09-14",
+    "amount": 1238.78
+  },
+  {
+    "job_id": 25,
+    "client_id": "C0022",
+    "job_date": "2026-09-24",
+    "amount": 2994.52
+  },
+  {
+    "job_id": 26,
+    "client_id": "C0015",
+    "job_date": "2026-01-20",
+    "amount": 2177.67
+  },
+  {
+    "job_id": 27,
+    "client_id": "C0002",
+    "job_date": "2026-03-17",
+    "amount": 2868.12
+  },
+  {
+    "job_id": 28,
+    "client_id": "C0006",
+    "job_date": "2026-07-12",
+    "amount": 2735.04
+  },
+  {
+    "job_id": 29,
+    "client_id": "C0014",
+    "job_date": "2026-06-29",
+    "amount": 2775.08
+  },
+  {
+    "job_id": 30,
+    "client_id": "C0002",
+    "job_date": "2026-08-12",
+    "amount": 1144.7
+  },
+  {
+    "job_id": 31,
+    "client_id": "C0016",
+    "job_date": "2026-01-26",
+    "amount": 664.62
+  },
+  {
+    "job_id": 32,
+    "client_id": "C0007",
+    "job_date": "2026-04-02",
+    "amount": 75.9
+  },
+  {
+    "job_id": 33,
+    "client_id": "C0026",
+    "job_date": "2026-02-05",
+    "amount": 2561.66
+  },
+  {
+    "job_id": 34,
+    "client_id": "C0029",
+    "job_date": "2026-07-08",
+    "amount": 1596.19
+  },
+  {
+    "job_id": 35,
+    "client_id": "C0018",
+    "job_date": "2026-04-03",
+    "amount": 1269.51
+  },
+  {
+    "job_id": 36,
+    "client_id": "C0006",
+    "job_date": "2026-09-15",
+    "amount": 2643.74
+  },
+  {
+    "job_id": 37,
+    "client_id": "C0023",
+    "job_date": "2026-02-14",
+    "amount": "N/A"
+  },
+  {
+    "job_id": 38,
+    "client_id": "C0004",
+    "job_date": "2026-09-27",
+    "amount": 656.1
+  },
+  {
+    "job_id": 39,
+    "client_id": "C0022",
+    "job_date": "2026-10-02",
+    "amount": 545.05
+  },
+  {
+    "job_id": 40,
+    "client_id": "C0011",
+    "job_date": "2026-06-21",
+    "amount": 2501.98
+  },
+  {
+    "job_id": 41,
+    "client_id": "C0020",
+    "job_date": "2026-03-07",
+    "amount": 947.28
+  },
+  {
+    "job_id": 42,
+    "client_id": "C0017",
+    "job_date": "2026-02-14",
+    "amount": 2634.16
+  },
+  {
+    "job_id": 43,
+    "client_id": "C0030",
+    "job_date": "2026-10-14",
+    "amount": 3166.62
+  },
+  {
+    "job_id": 44,
+    "client_id": "C0016",
+    "job_date": "2026-01-16",
+    "amount": 3404.12
+  },
+  {
+    "job_id": 45,
+    "client_id": "C0019",
+    "job_date": "2026-10-10",
+    "amount": 885.87
+  },
+  {
+    "job_id": 46,
+    "client_id": "C0004",
+    "job_date": "2026-08-06",
+    "amount": 3004.42
+  },
+  {
+    "job_id": 47,
+    "client_id": "C0002",
+    "job_date": "2026-08-05",
+    "amount": 2451.72
+  },
+  {
+    "job_id": 48,
+    "client_id": "C0020",
+    "job_date": "2026-02-03",
+    "amount": 1938.34
+  },
+  {
+    "job_id": 49,
+    "client_id": "C0018",
+    "job_date": "2026-03-04",
+    "amount": 2438.28
+  },
+  {
+    "job_id": 50,
+    "client_id": "C0018",
+    "job_date": "2026-09-23",
+    "amount": 651.14
+  },
+  {
+    "job_id": 51,
+    "client_id": "C0018",
+    "job_date": "2026-02-12",
+    "amount": 3323.35
+  },
+  {
+    "job_id": 52,
+    "client_id": "C0006",
+    "job_date": "2026-04-11",
+    "amount": 2634.69
+  },
+  {
+    "job_id": 53,
+    "client_id": "C0009",
+    "job_date": "2026-09-15",
+    "amount": 457.96
+  },
+  {
+    "job_id": 54,
+    "client_id": "C0005",
+    "job_date": "2026-04-07",
+    "amount": 1524.51
+  },
+  {
+    "job_id": 55,
+    "client_id": "C0015",
+    "job_date": "2026-09-28",
+    "amount": 397.27
+  },
+  {
+    "job_id": 56,
+    "client_id": "C0007",
+    "job_date": "2026-05-22",
+    "amount": 274.42
+  },
+  {
+    "job_id": 57,
+    "client_id": "C0019",
+    "job_date": "2026-05-14",
+    "amount": 269.2
+  },
+  {
+    "job_id": 58,
+    "client_id": "C0011",
+    "job_date": "2026-04-22",
+    "amount": 3463.72
+  },
+  {
+    "job_id": 59,
+    "client_id": "C0005",
+    "job_date": "2026-01-01",
+    "amount": 700.62
+  },
+  {
+    "job_id": 60,
+    "client_id": "C0018",
+    "job_date": "2026-03-07",
+    "amount": 3262.17
+  },
+  {
+    "job_id": 61,
+    "client_id": "C0001",
+    "job_date": "2026-04-02",
+    "amount": 2116.41
+  },
+  {
+    "job_id": 62,
+    "client_id": "C0004",
+    "job_date": "2026-08-21",
+    "amount": 320.38
+  },
+  {
+    "job_id": 63,
+    "client_id": "C0009",
+    "job_date": "2026-08-22",
+    "amount": 740.46
+  },
+  {
+    "job_id": 64,
+    "client_id": "C0013",
+    "job_date": "2026-03-07",
+    "amount": 2059.95
+  },
+  {
+    "job_id": 65,
+    "client_id": "C0017",
+    "job_date": "2026-04-21",
+    "amount": 3465.52
+  },
+  {
+    "job_id": 66,
+    "client_id": "C0019",
+    "job_date": "2026-03-05",
+    "amount": 2930.48
+  },
+  {
+    "job_id": 67,
+    "client_id": "C0026",
+    "job_date": "2026-01-18",
+    "amount": 2327.54
+  },
+  {
+    "job_id": 68,
+    "client_id": "C0011",
+    "job_date": "2026-03-19",
+    "amount": 1133.8
+  },
+  {
+    "job_id": 69,
+    "client_id": "C0014",
+    "job_date": "2026-07-09",
+    "amount": 1538.35
+  },
+  {
+    "job_id": 70,
+    "client_id": "C0013",
+    "job_date": "2026-06-01",
+    "amount": 1470.79
+  }
+]

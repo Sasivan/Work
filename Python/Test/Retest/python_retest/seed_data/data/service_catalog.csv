@@ -1,0 +1,6 @@
+service_code,service_name,hourly_rate
+SV-01,Onboarding,42.5
+SV-02,Data Migration,85.0
+SV-03,Integration,96.0
+SV-04,Support,55.0
+SV-05,Training,62.0
