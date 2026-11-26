@@ -1,0 +1,7 @@
+pymysql
+sqlalchemy
+ipython-sql
+jupyter
+notebook
+pandas
+prettytable<3.9
